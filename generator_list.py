@@ -300,3 +300,4 @@ button.place(relx=0.5, rely=0.9, anchor='center')
 tk.mainloop()
 
 #KOMENTARZ DO GITA
+#KOMENTARZ Z GITA
