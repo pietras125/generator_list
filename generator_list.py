@@ -298,3 +298,5 @@ button.place(relx=0.5, rely=0.9, anchor='center')
 #    rows.append(cols)
 
 tk.mainloop()
+
+#KOMENTARZ DO GITA
